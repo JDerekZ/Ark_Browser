@@ -1,0 +1,11 @@
+C:\Users\jdere\OneDrive\Documentos\ITLA-Homework\Tarea-DCU\ArkBrowser\ArkBrowser\bin\Debug\ArkBrowser.exe.config
+C:\Users\jdere\OneDrive\Documentos\ITLA-Homework\Tarea-DCU\ArkBrowser\ArkBrowser\bin\Debug\ArkBrowser.exe
+C:\Users\jdere\OneDrive\Documentos\ITLA-Homework\Tarea-DCU\ArkBrowser\ArkBrowser\bin\Debug\ArkBrowser.pdb
+C:\Users\jdere\OneDrive\Documentos\ITLA-Homework\Tarea-DCU\ArkBrowser\ArkBrowser\obj\Debug\ArkBrowser.csproj.AssemblyReference.cache
+C:\Users\jdere\OneDrive\Documentos\ITLA-Homework\Tarea-DCU\ArkBrowser\ArkBrowser\obj\Debug\ArkBrowser.csproj.SuggestedBindingRedirects.cache
+C:\Users\jdere\OneDrive\Documentos\ITLA-Homework\Tarea-DCU\ArkBrowser\ArkBrowser\obj\Debug\ArkBrowser.FrmArkBrowser.resources
+C:\Users\jdere\OneDrive\Documentos\ITLA-Homework\Tarea-DCU\ArkBrowser\ArkBrowser\obj\Debug\ArkBrowser.Properties.Resources.resources
+C:\Users\jdere\OneDrive\Documentos\ITLA-Homework\Tarea-DCU\ArkBrowser\ArkBrowser\obj\Debug\ArkBrowser.csproj.GenerateResource.cache
+C:\Users\jdere\OneDrive\Documentos\ITLA-Homework\Tarea-DCU\ArkBrowser\ArkBrowser\obj\Debug\ArkBrowser.csproj.CoreCompileInputs.cache
+C:\Users\jdere\OneDrive\Documentos\ITLA-Homework\Tarea-DCU\ArkBrowser\ArkBrowser\obj\Debug\ArkBrowser.exe
+C:\Users\jdere\OneDrive\Documentos\ITLA-Homework\Tarea-DCU\ArkBrowser\ArkBrowser\obj\Debug\ArkBrowser.pdb
